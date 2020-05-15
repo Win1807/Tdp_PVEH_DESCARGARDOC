@@ -1,0 +1,38 @@
+{
+	"items" : [
+		{
+			"documentId" : "Texto",
+			"visibleEdit" : true,
+			"visibleDelete" : true,
+			"fileName" : "documento.txt",
+			"mimeType" : "text/plain",
+			"thumbnailUrl" : "",
+			"url" : "./util/documento.txt",
+			"attributes":[
+				{
+					"title":"Uploaded By",
+					"text":"Susan Baker"
+				},
+				{
+					"title":"Uploaded On",
+					"text":"2014-09-03"
+				},
+				{
+					"title":"File Size",
+					"type" :"size",
+					"text":"50"
+				},
+				{
+					"title":"Version",
+					"text":"1"
+				}
+			],
+			"statuses":[
+				{
+					"title":"First status' title",
+					"text":"First status' text"
+				}
+			]
+		}
+	]
+}
